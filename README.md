@@ -24,4 +24,4 @@
 
 
  ## Tela Inicial
- ![ecoleta](/images/tela_inicial.png)
+ ![ecoleta](https://github.com/G-DevOn/Ecoleta/blob/master/images/tela_incial.png)
