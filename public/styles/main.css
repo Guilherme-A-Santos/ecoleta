@@ -1,0 +1,39 @@
+
+:root {              /* Referencia a raiz do documento html */
+    --title-color: #322153;
+    --primary-color: #34cb79;
+    --background-c: #F0F0F5
+}
+
+* {             /* Atalho para referenciar todos*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+            font-family: 'Roboto', sans-serif;
+        }
+/* Box model
+
+Modelo de caixa
+Toda caixa tem
+largura, altura, espaçamento, preenchimentos,
+bordas, cor, fundo, alinhamentos, posicionamento, mode de exibição (display)
+*/
+
+a {                     /* Aplica configurações css para todas tags "a" */
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--title-color);
+    font-family: "Ubuntu", sans-serif;
+}
+
+
+body {
+    background: var(--background-c);
+    -webkit-font-smoothing: antialiased;
+}
