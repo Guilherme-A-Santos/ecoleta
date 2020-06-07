@@ -24,4 +24,4 @@
 
 
  ## Tela Inicial
- ![ecoleta](https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-Starter?node-id=136%3A548)
+ ![ecoleta](/images/tela_inicial.png)
