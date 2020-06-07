@@ -25,3 +25,5 @@
 
  ## Tela Inicial
  ![ecoleta](/images/tela_inicial.png)
+
+ Agradecimento especial para equipe @rocketseat a ao ótimo professor @maykbrito!
