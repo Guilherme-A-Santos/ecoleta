@@ -16,8 +16,12 @@
  #### Back-end
  * JavaScript
  * NodeJs
-    ** Express
-    ** Nunjucks
-    ** SQLite
+
+ ### Dependências
+ * Express
+ * Nunjucks
+ * Sqlite3
 
 
+ ## Tela Inicial
+ ![ecoleta](https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-Starter?node-id=136%3A548)
