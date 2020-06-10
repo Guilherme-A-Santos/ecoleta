@@ -48,3 +48,74 @@
         background-position-y: 200px;
     }
 }
+
+@media (max-width: 1024px) {
+    #page-home {
+        background: url('../assets/home-background.svg') no-repeat;
+        background-position-y: 10vw;
+        background-position-x: 5vw;
+    }
+
+    #page-home .content {
+        align-items: center;
+        text-align: center;
+    }
+
+    #page-home .content header {
+        margin-top: 0px;
+        width: 150px;
+        height: 150px;
+    }
+
+    #cadastre-se {
+        font-size: 32px;
+        position: absolute;
+        bottom: 48px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #cadastre-se span {
+        background: no-repeat;
+    }
+
+    #page-home main {
+        margin-top: 272px;
+        align-items: center;
+    }
+
+    #page-home main h1 {
+        font-size: 59px;
+    }
+
+    #botao {
+        margin-top: 70px;
+        width: 100%;
+        max-width: 400px;
+        font-size: 22px;
+    }
+
+    #page-search-results .cards {
+        grid-template-columns: 1fr; /*Desafio de arrumar todas as responsividades*/
+        margin-top: 100px;
+    }
+
+     #page-search-results .cards p {
+         font-size: 25px;
+     }
+
+    #page-search-results .cards img {
+        height: 250px;
+        width: 75%;
+    }
+
+    #page-create-point .field-group {
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field + .field {
+        margin-left: 0;
+    }
+}
+
+

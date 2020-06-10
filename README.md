@@ -25,5 +25,22 @@
 
  ## Tela Inicial
 
- ![ecoleta](https://github.com/G-DevOn/Ecoleta/blob/master/images/tela_incial.png)
+ ![ecoleta](https://github.com/G-DevOn/Ecoleta/blob/master/images/home-page.png)
+
+ ## Criando um ponto de coleta
+
+ ![ecoleta](https://github.com/G-DevOn/Ecoleta/blob/master/images/create-point.png)
+
+ ## Ponto criado
+
+ ![ecoleta](https://github.com/G-DevOn/Ecoleta/blob/master/images/point-created.png)
+
+ ## Buscar pontos de coleta
+
+ ![ecoleta](https://github.com/G-DevOn/Ecoleta/blob/master/images/search.png)
+
+ ## Resultados da busca
+
+ ![ecoleta](https://github.com/G-DevOn/Ecoleta/blob/master/images/results.png)
+
  Agradecimento especial para equipe @rocketseat a ao ótimo professor @maykbrito!
